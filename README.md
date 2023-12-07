@@ -14,7 +14,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaewan22&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaewan22&layout=compact&theme=tokyonight&exclude=jupyter%20notebook)
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
