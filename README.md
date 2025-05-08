@@ -37,3 +37,9 @@ Frameworks & Tools
 > Jetpack Compose performance optimization
 
 > on-device AI
+
+## 🚀 Published Apps
+
+<a href="https://play.google.com/store/apps/details?id=com.cbnu.cats_cbnu" target="_blank">
+  <img src="https://img.shields.io/badge/CATS_CBNU%20on%20PlayStore-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="CATS_CBNU on PlayStore">
+</a>
