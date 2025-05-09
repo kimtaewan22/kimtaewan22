@@ -24,7 +24,6 @@ Languages
 Frameworks & Tools
 <p>
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=blue">
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
